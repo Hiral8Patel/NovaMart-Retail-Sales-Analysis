@@ -86,7 +86,7 @@ quantity, revenue, cost, profit, customer type, and season.
 - Profitability investigation
 
 ## 📈 Dashboard Preview
-![NovaMart Dashboard](Screenshots/Novamart_Dashboard.png)
+![NovaMart Dashboard](Screenshots/NovaMart_Dashboard.jpg)
 The dashboard provides a consolidated view of NovaMart's business
 performance through KPI cards, sales trends, product and category
 analysis, customer segmentation, regional performance, sales channels,
